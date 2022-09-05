@@ -1,0 +1,20 @@
+body {
+    background-image: url(imagens/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.form-inicio{
+    width: 14%;
+    margin: 10% auto;
+}
+
+#jogar{
+    margin-left: 25%;
+}
+
+
+
+
